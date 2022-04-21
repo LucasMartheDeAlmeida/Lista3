@@ -13,8 +13,7 @@ export default function Header(){
         <header>
             <div className="Cabecalho" >
             
-                <DiFirefox  color="#00FF22" /> 
-                <h1>Cadastro Clientes</h1>
+                <h1 className="Logo">Cadastro Clientes <DiFirefox  color="#00FF22" /> </h1>
         
             </div>
 
